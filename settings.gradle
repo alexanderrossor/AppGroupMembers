@@ -1,0 +1,2 @@
+rootProject.name='AppGroupMembers'
+include ':app'
